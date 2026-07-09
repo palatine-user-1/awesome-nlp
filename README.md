@@ -1313,10 +1313,6 @@ Resources organized by human language. Click a section to expand.
 
 - [SOAS English-Uzbek RAG Evaluation](https://github.com/rajantripathi/soas-rag-evaluation) - Bilingual retrieval-evaluation benchmark for culturally grounded RAG. 400 rows, EN+UZ, MIT/CC-BY-4.0.
 
-### Applications
-
-- [AUT Chatbot](https://github.com/rajantripathi/autchatbot-) - Local RAG chatbot for aut-edu.uz FAQs using Ollama. Handles Uzbek, Russian, and English. MIT.
-
 </details>
 
 <details>
