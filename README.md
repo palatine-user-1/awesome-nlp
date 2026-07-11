@@ -1107,6 +1107,7 @@ Resources organized by human language. Click a section to expand.
 - [KoNLP](https://cran.r-project.org/package=KoNLP) - R package for Korean NLP.
 - [kss](https://github.com/hyunwoongko/kss) - Korean sentence splitter.
 - [Kiwi](https://github.com/bab2min/Kiwi) - fast Korean morphological analyzer.
+- [Garu](https://github.com/ongjin/garu) - browser-native Korean morphological analyzer running fully client-side via WebAssembly (1MB model, offline, MIT).
 
 ### Models and Embeddings
 
