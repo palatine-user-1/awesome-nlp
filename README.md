@@ -88,6 +88,7 @@ This list covers natural language processing — linguistic analysis, multilingu
   * [NLP in Thai](#nlp-in-thai)
   * [NLP in Ukrainian](#nlp-in-ukrainian)
   * [NLP in Urdu](#nlp-in-urdu)
+  * [NLP in Uzbek](#nlp-in-uzbek)
   * [NLP in Vietnamese](#nlp-in-vietnamese)
   * [Other Languages](#other-languages)
 * [See Also](#see-also)
@@ -1296,6 +1297,21 @@ Resources organized by human language. Click a section to expand.
 ### Datasets
 
 - [Collection of Urdu datasets](https://github.com/mirfan899/Urdu) - POS, NER, and other NLP tasks.
+
+</details>
+
+<details>
+<summary>
+
+### NLP in Uzbek
+
+</summary>
+
+[Back to Top](#contents)
+
+### Datasets
+
+- [SOAS English-Uzbek RAG Evaluation](https://github.com/rajantripathi/soas-rag-evaluation) - Bilingual retrieval-evaluation benchmark for culturally grounded RAG. 400 rows, EN+UZ, MIT/CC-BY-4.0.
 
 </details>
 
